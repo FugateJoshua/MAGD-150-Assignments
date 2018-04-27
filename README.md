@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+##List of Projects
 
-You can use the [editor on GitHub](https://github.com/FugateJoshua/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+* ####Assignment 1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ This project is a group of buildings made using multiple rectangles. The buildings themselves are meant to resemble the ones seen on [this LED Switch Dock](https://www.amazon.com/Nintendo-Switch-Light-Dock-Shield-PDP/dp/B073X4RF9Q).
+ 
+* ####Assignment 3
 
-### Markdown
+ This project is a simple screensaver made using a rectangle that changes in color and slowly grows in size before resetting based on when it reaches the egde of the window.
+ 
+* ####Assignment 5
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ This project demonstrates a TV and remote, with an option to turn the TV on and off, an option to change the input, and an option to turn the color on and off.
+ 
+* ####Assignment 6
 
-```markdown
-Syntax highlighted code block
+ This project is meant to show different seasons, as well as different types of weather, all happening at once by separating each weather effect into its own column.
+ 
+* ####Assignment 8
 
-# Header 1
-## Header 2
-### Header 3
+ This project displays a movie poster for the cult classic movie, _thonk_, with an option to switch between the greatest and **most serious** fonts of all time, comic sans and papyrus.
+ 
+* ####Assignment 9
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FugateJoshua/MAGD-150-Assignments/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ This project shows a **_100% accurate_** documentary about birds, including what they sound like and their mating process.
